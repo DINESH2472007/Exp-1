@@ -1,5 +1,6 @@
 # Exp-1 ATM & BANKING SYSTEM
-
+# NAME : DINESH S
+# REG NO : 212224230069
 # AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of ATM System.
 # SRS (Procedure):
@@ -30,31 +31,34 @@ vi)Sequence Diagram
 
 ```Class Diagram```
 
+<img width="1152" height="961" alt="image" src="https://github.com/user-attachments/assets/5cd9691d-9a00-4731-86af-88ce9d7bc5cc" />
 
-![Screenshot 2025-05-19 104415](https://github.com/user-attachments/assets/9b353fda-3850-4711-930b-41ce1057b936)
 
 ```Package Diagram```
 
 
-![Screenshot 2025-05-19 104424](https://github.com/user-attachments/assets/00552211-0685-4fea-b396-74c8adf1815f)
+<img width="1231" height="964" alt="image" src="https://github.com/user-attachments/assets/7a242d97-3482-4351-885a-6d54b6ecd6bd" />
 
 
 ```Sequence Diagram```
 
 
-![Screenshot 2025-05-19 104433](https://github.com/user-attachments/assets/a48e6576-7a04-4d32-a81c-4187b6a905a3)
+<img width="1230" height="1008" alt="image" src="https://github.com/user-attachments/assets/3ee8c343-21d3-4ec6-9e06-a5fc2275ef85" />
+
 
 
 ```Activity Diagram```
 
 
-![Screenshot 2025-05-19 110036](https://github.com/user-attachments/assets/1a2328f1-40fc-4969-bddf-a51c6c795fff)
+<img width="1238" height="1010" alt="image" src="https://github.com/user-attachments/assets/8b515a4e-e06f-4d1e-be53-d8e0b0dbd95c" />
+
 
 
 ```Communication Diagram```
 
 
-![Screenshot 2025-05-19 111709](https://github.com/user-attachments/assets/1e8be403-b8d8-4d54-8aaa-db3212a772bf)
+<img width="1238" height="1011" alt="image" src="https://github.com/user-attachments/assets/ef49f5e9-32a9-4691-8702-5379f9dde23e" />
+
 
 # RESULT:
 
